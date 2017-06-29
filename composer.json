@@ -1,0 +1,19 @@
+{
+  "name": "zongphp/image",
+  "description": "图片组件提供了缩略图、水印等图像处理功能",
+  "type": "project",
+  "keywords": [
+    "image",
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": [],
+    "psr-4": {
+      "zongphp\\image\\": "src"
+    }
+  }
+}
