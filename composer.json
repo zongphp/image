@@ -4,6 +4,7 @@
   "type": "project",
   "keywords": [
     "image",
+	"缩略图"
   ],
   "license": "MIT",
   "minimum-stability": "stable",
